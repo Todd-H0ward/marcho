@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg data-name="Layer 1" width="185px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209.2 34.85">
+<svg id="Layer_1" data-name="Layer 1" width="155px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209.2 34.85">
   <defs>
     <style>
+
       .cls-1 {
         fill: #1a1a1a;
         width: 185px;
